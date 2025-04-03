@@ -1,3 +1,4 @@
+// This is just brute force solution. It can be optimized by using StringBuilder Method
 import java.util.*;
 public class CountWordsGreaterThan5 {
     public static void main(String[] args) {
