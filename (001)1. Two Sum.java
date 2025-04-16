@@ -1,4 +1,4 @@
-//1ST WAY USING HASHMAPS
+// 1ST WAY USING HASHMAPS
 class Solution {
     public int[] twoSum(int[] nums, int target) {
          HashMap<Integer , Integer> map = new HashMap<>();
